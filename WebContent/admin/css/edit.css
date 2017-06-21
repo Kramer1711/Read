@@ -1,0 +1,55 @@
+@charset "UTF-8";
+body {
+    font-family: 微软雅黑;
+    font-size: 14px;
+    padding: 0px;
+}
+header{
+    position: relative;
+    width: 100%;
+    min-width: 600px;
+    margin-top: 5px;
+}
+header ul li{
+    margin-left: 10px;
+    margin-top: 2px;
+}
+header ul li a{
+    cursor: pointer !important;
+}
+section{
+    position: relative;
+    width: 500px;
+    top: 50px;
+    margin: 0px auto;
+    border: solid 1px lightgray;
+    border-radius: 10px;
+}
+section dl{
+    margin: 20px 0px;
+
+}
+section dl dt{
+    width: 460px;
+    margin-left: 20px;
+    margin-bottom: 15px;
+    padding-bottom: 5px;
+    border-bottom: solid 1px gray;
+    font-size: 16px;
+    text-indent: 10px;
+    letter-spacing: 4px;
+    text-align: center;
+}
+section dl dd{
+    width: 300px;
+    margin: 20px 100px;
+}
+.input-radio{
+    margin-left: 50px !important;
+}
+.btn-container{
+    text-align: center;
+}
+.btn-container input{
+    margin: 10px 20px 10px;
+}

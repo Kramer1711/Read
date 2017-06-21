@@ -1,0 +1,65 @@
+@charset "UTF-8";
+body {
+    font-family: 微软雅黑;
+    font-size: 14px;
+    padding: 0px;
+}
+header{
+    position: relative;
+    width: 100%;
+    min-width: 600px;
+    margin-top: 5px;
+}
+header ul li{
+    margin-left: 10px;
+    margin-top: 2px;
+}
+header ul li a{
+    cursor: pointer !important;
+}
+section{
+    position: relative;
+    width: 90%;
+    min-width: 600px;
+    top: 50px;
+    margin: 0px auto;
+}
+section form table tr th,td{
+    text-align: center;
+}
+section form p{
+
+}
+section form nav{
+    font-size: 16px;
+    text-align: right;
+    margin-right: 20px;
+}
+.input-size{
+    width: 300px !important;
+    height: 35px !important;
+}
+.btn-container{
+    text-align: right;
+}
+.btn-search{
+    margin-left: 20px;
+    padding-right: 20px;
+    padding-left: 20px;
+    font-size: 14px;
+}
+.btn-container input{
+    margin: 5px;
+    padding-top: 5px;
+    padding-right: 20px;
+    padding-bottom: 5px;
+    padding-left: 20px;
+    font-size: 14px;
+}
+.form-align{
+    text-align: right;
+    margin-bottom: 30px;
+}
+.nav-myalign{
+    text-align: right;
+}

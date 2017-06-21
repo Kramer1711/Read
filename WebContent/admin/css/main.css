@@ -1,0 +1,20 @@
+@charset "UTF-8";
+/*公用*/
+.comwidth{
+    width: 1000px; margin-left: auto;margin-right: auto;
+}
+.left{
+    float: left;
+}
+.right{
+    float: right;
+}
+/*topbar*/
+.topbar{
+    height: 31px; background-color: #F7F6FB;
+    line-height: 31px;
+}
+.nav li{
+    float: left;
+}
+
